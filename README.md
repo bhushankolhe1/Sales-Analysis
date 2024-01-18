@@ -1,7 +1,7 @@
-# Sales Analysis Using Python Libraries
+# Sales Data Analysis Using Python Libraries
 
 # Introduction
-This project dives into the data of a Dmart like mall which have it's branches all over India. here I figured out what customers buy the most, where we can improve, and which products are super popular. By looking at who's buying and what's selling, Client can make smart decisions to sell more stuff and meet customer needs. The goal is to give the mall useful info that can boost sales and keep the mall growing strong.
+This project dives into the data of a Dmart like mall which have it's branches all over India. here we figured out what customers buy the most, where we can improve, and which products are super popular. By looking at who's buying and what's selling, Client can make smart decisions to sell more stuff and meet customer needs. The goal is to give the mall useful info that can boost sales and keep the mall growing strong.
 
 # We have answered these questions through our data analysis.
 
